@@ -1,12 +1,19 @@
 package org.lessons.Lesson_2;
 
+import java.util.Scanner;
+
 public class ClassWork {
     int ageOfTheChild = 190; // global deyishen
 
     public static void main(String[] args) {
 //        System.out.println("Zehmet olmasa adinizi daxil edin");
-//        Scanner scanner = new Scanner(System.in);
-//        int g = scanner.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        int g = scanner.nextInt();
+        int h = scanner.nextInt();
+        int j = scanner.nextInt();
+        int k = scanner.nextInt();
+        int l = scanner.nextInt();
+
 
         String name = "Rauf";
         char r = 'R';
