@@ -1,6 +1,6 @@
 package org.lessons.Lesson_10;
 
-class Computer {
+public class Computer {
     String name ;
 
     public String getName() {
